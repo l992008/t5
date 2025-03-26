@@ -3,12 +3,10 @@
        ```bash
        git clone https://github.com/l992008/t5
     2. Перейти в папку проекта:
-       cd my-shop
+       cd t5/my-shop
     3. Установить зависимости:
        npm install
-    4. Запустить сервер с данными:
-       --watch public/data.json --port 3001
-    5. Запустить проект:
-       npm run dev
+    4. Запустить проект:
+       npm start
 
 Проект будет доступен по адресу: http://localhost:5173.
